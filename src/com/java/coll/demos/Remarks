@@ -1,0 +1,18 @@
+Iterable --> 
+			lets take an example -- i have Group of elements --> i want visit/consume those 
+			one by one --> every element la -- iterate --. process karav lagel --> 
+			
+			
+			
+			
+Array -->
+		size and length and capacity --> same
+		
+Arraylist 
+		size and capacity			--> diff
+		
+		
+		capacity --> num of elements that we occupy
+		size  --> actual number of element present inside that array.
+		
+		
